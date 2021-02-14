@@ -1,7 +1,8 @@
 """
-The Astronauts
-DS-GA 1001 Term Project
-Authors: Anthony Chen, Sharder Islam, David May, Daniel Tang
+NYU Center for Data Science
+DS-GA 1001 Fall 2020
+Term Project
+Authors: Sharder Islam, and 3 others
 """
 
 import shap
